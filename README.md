@@ -15,8 +15,8 @@ Pandas, Numpy, SciKit Learn, Scipy, Matplotlib, Catboost, Mlp regressor.
 
 # Ouss_M team members : 
 
-### Chennoufi mohammed soheib / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-### Terki anis / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-### Bouzit zakaria / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-### Moussaoui younes  / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
+#### Chennoufi mohammed soheib / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
+#### Terki anis / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
+#### Bouzit zakaria / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
+#### Moussaoui younes  / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
 
