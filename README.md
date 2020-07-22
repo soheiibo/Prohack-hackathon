@@ -11,7 +11,7 @@ in this repo there are  three colab notebook; the first is for data preprocessin
 # our approch : 
 we tried to deal with missing values and outliers first and than to scale our data because we used a Deep learning model which is MLP regressor wih catboost model, we took the best 5 results and then we took thier median. 
 ## we used : 
-Pandas, Numpy, SciKit Learn, Scipy, Matplotlib, Catboost, Mlp regressor.
+Pandas, Numpy, SciKit Learn, Scipy, Matplotlib, Catboost, Lightgbm, Xgboost, Mlp regressor.
 
 # Ouss_M team members : 
 
