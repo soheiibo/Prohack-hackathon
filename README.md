@@ -13,10 +13,3 @@ we tried to deal with missing values and outliers first and than to scale our da
 ## we used : 
 Pandas, Numpy, SciKit Learn, Scipy, Matplotlib, Catboost, Lightgbm, Xgboost, Mlp regressor.
 
-# Ouss_M team members : 
-
-#### Chennoufi mohammed soheib / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-#### Terki anis / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-#### Bouzit zakaria / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-#### Moussaoui younes  / Control Engineering student at Polytechnic School of Algiers - (ENP Alger)
-
